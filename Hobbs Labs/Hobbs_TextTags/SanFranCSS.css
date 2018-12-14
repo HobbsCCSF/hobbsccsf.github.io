@@ -1,0 +1,51 @@
+h1 {
+    font-family: "Helvetica";
+    font-size: 36pt;
+    color: orange;
+}
+
+h2 {
+    font-family: "Helvetica";
+    font-size: 16pt;
+    color: green;
+}
+
+h3 {
+    font-family: "Helvetica";
+    font-size: 14pt;
+}
+
+p {
+    font-family: "Helvetica";
+}
+
+html {
+    background-image: url(images/tim-foster-601009-unsplash.jpg);
+}
+
+body {
+    background-color: beige;
+    width: 500px;
+   padding-bottom: 20px;
+    padding-top: 1px;
+    padding-left: 30px;
+    margin: auto;
+    margin-top: 150px;
+}
+
+p { 
+font-family: "Helvetica";
+color: dimgrey;
+    font-size: 10pt;
+}
+
+a {
+    color: deeppink;
+    text-decoration: none;
+}
+
+li {
+    font-family: "arial";
+    font-size: 10pt;
+    
+}
