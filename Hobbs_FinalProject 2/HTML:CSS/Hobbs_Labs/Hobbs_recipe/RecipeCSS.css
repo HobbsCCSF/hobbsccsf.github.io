@@ -1,0 +1,47 @@
+h1 {
+    font-family: "Courier";
+    font-size: 36pt;
+    color: orange;
+}
+
+h2 {
+    font-family: "Courier";
+    font-size: 16pt;
+    color: green;
+}
+
+h3 {
+    font-family: "Courier";
+    font-size: 14pt;
+}
+
+p {
+    font-family: "courier";
+}
+
+html {
+    background-color: darkgreen;
+}
+
+main {
+    background-color: lightgreen;
+    width: 500px;
+    padding-left: 30px;
+}
+
+p { 
+font-family: "Arial";
+color: dimgrey;
+    font-size: 10pt;
+}
+
+a {
+    color: deeppink;
+    text-decoration: none;
+}
+
+li {
+    font-family: "arial";
+    font-size: 10pt;
+    
+}

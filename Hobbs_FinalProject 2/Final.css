@@ -1,0 +1,28 @@
+html{
+        background-color: aliceblue;
+}
+body {
+    padding-left: 20px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+p {
+    font-family: "Montserrat";
+    color: 0d145b;
+    width: 600px;
+    text-align: center;
+    margin: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: red;
+    font-family: "Lemon";
+}
+
+main {
+    background: orange;
+}

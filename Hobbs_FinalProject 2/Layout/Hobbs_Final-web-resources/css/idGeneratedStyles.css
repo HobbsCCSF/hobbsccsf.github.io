@@ -1,0 +1,75 @@
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+body {
+	-epub-hyphens:auto;
+}
+div.Basic-Graphics-Frame {
+	border-color:#000000;
+	border-width:1px;
+	border-style:solid;
+}
+span.Body-text {
+	font-family:Courier, serif;
+	font-size:10px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.Caption- {
+	color:#f99b1c;
+	font-family:Helvetica, sans-serif;
+	font-size:12px;
+	font-style:normal;
+	font-weight:300;
+	text-decoration:underline;
+}
+p.ParaOverride-1 {
+	-epub-hyphens:none;
+}
+span.CharOverride-1 {
+	color:#ffffff;
+	font-family:Helvetica, sans-serif;
+	font-size:20px;
+	font-style:normal;
+	font-weight:300;
+}
+span.CharOverride-2 {
+	color:#ffffff;
+	font-family:Helvetica, sans-serif;
+	font-size:34px;
+	font-style:normal;
+	font-weight:300;
+}
+#_idContainer000 {
+	display:inline-block;
+	height:247px;
+	position:relative;
+	width:387px;
+}
+#_idContainer004, #_idContainer007 {
+	display:inline-block;
+	height:237px;
+	width:377px;
+}
+#_idContainer010 {
+	display:inline-block;
+	height:237px;
+	width:381px;
+}
+img._idGenObjectAttribute-1 {
+	height:100.00%;
+	min-width:100%;
+	width:100.00%;
+}
+div._idGenObjectStyleOverride-1 {
+	background-color:#dd9b36;
+	border-width:0px;
+}
+div._idGenObjectStyleOverride-2 {
+	border-width:0px;
+}
+div._idGenObjectLayout-1 {
+	text-align:center;
+}
